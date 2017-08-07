@@ -57,6 +57,10 @@ footer {
 }
 
 footer li, footer p {
-	display: inline-flex;
+	display: inline;
 	font-size: 11px;
+}
+
+footer ul {
+	display: inline;
 }
